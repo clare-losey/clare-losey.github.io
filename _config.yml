@@ -1,0 +1,30 @@
+# Site settings
+title: Clare Losey
+author: Clare Losey
+description: "Clare Losey"
+baseurl: ""
+url: "https://clare-losey.github.io/"
+date_format: "%b %-d, %Y"
+header_pages:
+ - publications.html
+ - CV.html
+ - contact.html
+ - blog.html
+ 
+
+show_social_icons: false
+email: clare_losey@utexas.edu
+github_username:
+twitter_username:
+linkedin_username:
+youtube_id:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
