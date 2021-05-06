@@ -26,15 +26,14 @@ tags: publications
 </style>
 
 <div>
-  <img src="{{ site.baseurl }} /images/talk.jpeg" style="width:100%; height:100%;">
+  <img src="{{ site.baseurl }} /images/speaking_alt.jpg" style="width:100%; height:100%;">
 </div>
 
-{% for year in site.data.years %}
-<h2>{{ year }}</h2>
+&nbsp;
+
 <div>
   <table>
     {% for paper in site.data.publications %}
-    {% if paper.year == year %}
     <tr>
       <td>
         <h4>{{ paper.title }}</h4>
@@ -52,8 +51,6 @@ tags: publications
         <center><img src="{{ paper.figure }}" style="max-height:200px; border-radius:10px;" /></center>
       </td>
     </tr>
-    {% endif %}
     {% endfor %}
   </table>
 </div>
-{% endfor %}

@@ -1,15 +1,31 @@
+- title: "Housing Needs Assessment Jacksonville, TX"
+  authors: Clare Losey and Others
+  venue: ""
+  year: 2020
+  note: ""
+  pdf: /pdfs/JacksonvilleReport.pdf
+  figure:  /images/publications/speaking3.jpg
+
 - title: "Redressing Racial and Environmental Injustice Through a Voluntary Acquisition and Relocation Program"
   authors: Clare Losey, Kijin Seong, Shannon Van Zandt
   venue: ""
   year: 2020
   note: ""
-  pdf: /pdfs/ananth_icra2021.pdf
-  figure: ""
+  pdf:
+  figure: /images/publications/speaking.jpg
 
 - title: "To Remain or Relocate? Mobility Decisions of Homeowners Exposed to Recurrent Hurricanes"
   authors: Kijin Seong, Clare Losey
   venue: ""
   year: 2020
   note: ""
-  pdf: /pdfs/xie_corl2020.pdf
+  pdf:
   figure: /images/publications/kijin2020.jpeg
+
+- title: "Technical Articles & Reports"
+  authors: Clare Losey and Others
+  venue: ""
+  year:
+  note: ""
+  pdf: https://www.recenter.tamu.edu/research/research-library#Default=%7B%22k%22%3A%22%22%2C%22r%22%3A%5B%7B%22n%22%3A%22owstaxIdRECAuthorMultiple%22%2C%22t%22%3A%5B%22%5C%22%C7%82%C7%824c307c233036646339383662612d363565322d343135632d613334342d3563383263663463656430307c4c6f736579%5C%22%22%5D%2C%22o%22%3A%22and%22%2C%22k%22%3Afalse%2C%22m%22%3Anull%7D%5D%7D
+  figure:  /images/publications/poster.jpg
