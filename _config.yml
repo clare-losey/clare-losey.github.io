@@ -3,14 +3,15 @@ title: Clare Losey
 author: Clare Losey
 description: "Clare Losey"
 baseurl: ""
-url: "https://clare-losey.github.io/"
+url: "https://clarelosey.com/"
 date_format: "%b %-d, %Y"
 header_pages:
  - publications.html
  - CV.html
  - contact.html
  - blog.html
- 
+ - dissertation.html
+
 
 show_social_icons: false
 email: clare_losey@utexas.edu
